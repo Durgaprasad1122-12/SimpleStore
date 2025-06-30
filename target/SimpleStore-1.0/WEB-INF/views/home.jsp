@@ -1,0 +1,1 @@
+<html><body><h1>Welcome to Simple Store</h1></body></html>
