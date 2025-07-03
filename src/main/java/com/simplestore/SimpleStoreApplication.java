@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
         org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.class
 })
 public class SimpleStoreApplication {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         SpringApplication.run(SimpleStoreApplication.class, args);
     }
 }
